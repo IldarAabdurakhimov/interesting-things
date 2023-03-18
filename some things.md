@@ -1,0 +1,1 @@
+- [Корректор старых фото, востановление](https://replicate.com/sczhou/codeformer)
